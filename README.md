@@ -1,6 +1,7 @@
 ## Olá, sou a Simone Guimarães!
 
 <div>
+  
   ![Profile View Counter](https://komarev.com/ghpvc/?username=simoneguimaraes) 
 
   ## 😂 Here is a random joke that'll make you laugh!
