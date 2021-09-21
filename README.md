@@ -16,13 +16,11 @@
   
 <div>
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=simoneguimaraes) 
+  ## ![Profile View Counter](https://komarev.com/ghpvc/?username=simoneguimaraes) 
 
   ## 😂 Here is a random joke that'll make you laugh!
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
-
- ##
  
 <div> 
  <a href="https://www.linkedin.com/in/simone-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
