@@ -3,11 +3,13 @@
  <div>
   ## 😂 Here is a random joke that'll make you laugh!
   ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
 
+ <div>
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=simoneguimaraes) 
   <a href="https://github.com/simoneguimaraes">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=simoneguimaraes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneguimaraes&layout=compact&langs_count=7&theme=radical"/>
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=simoneguimaraes) 
 </div>
   
 <div style="display: inline_block"><br>
