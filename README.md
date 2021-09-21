@@ -1,14 +1,6 @@
 ## Olá, sou a Simone Guimarães!
 
 <div>
-  
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=simoneguimaraes) 
-
-  ## 😂 Here is a random joke that'll make you laugh!
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
-
-<div>
   <a href="https://github.com/simoneguimaraes">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=simoneguimaraes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneguimaraes&layout=compact&langs_count=7&theme=radical"/>
@@ -20,6 +12,14 @@
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+  
+<div>
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=simoneguimaraes) 
+
+  ## 😂 Here is a random joke that'll make you laugh!
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
 
  ##
