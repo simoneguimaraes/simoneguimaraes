@@ -46,9 +46,12 @@
  </div>
   
   ##  
-   
-   <img align="center" alt="gif-cat" src="https://media2.giphy.com/media/11JTxkrmq4bGE0/200.webp?cid=ecf05e47erpodjp6r2y7x1zar3noxfonwqkwkyzn379ty4pk&rid=200.webp&ct=g" style="width: 20%">
-  
+
+   <div align='center'>
+   <img alt="gif-cat" src="https://media2.giphy.com/media/11JTxkrmq4bGE0/200.webp?cid=ecf05e47erpodjp6r2y7x1zar3noxfonwqkwkyzn379ty4pk&rid=200.webp&ct=g" class="centerImage" style="width:200px;">
+ </div>
+
+
    
   
 
