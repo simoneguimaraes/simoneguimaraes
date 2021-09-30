@@ -5,8 +5,10 @@
 
 </div>
 
-<img src='https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true' alt='welcome banner made by BrunnerLivio' style='max-width: 80%'> 
 
+<div align='center'>
+<img src='https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true' alt='welcome banner made by BrunnerLivio' style='width: 88%'> 
+</div>
 
 <div>
 <div align="center"><h3>Hi there, I'm Simone Guimarães! ☕</h3></div>
