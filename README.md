@@ -26,9 +26,15 @@
   
 <div>  
   
-  ### 😂 Here is a random joke that'll make you laugh!
+  ### 
+ 
+ <img align="right" alt="gif-cat" src="https://media2.giphy.com/media/11JTxkrmq4bGE0/200.webp?cid=ecf05e47erpodjp6r2y7x1zar3noxfonwqkwkyzn379ty4pk&rid=200.webp&ct=g" style="width: 20%;">
+ 
+ 😂 Here is a random joke that'll make you laugh!
   ![Jokes Card](https://readme-jokes.vercel.app/api)
   
+  
+ 
 </div>
   
    ##
@@ -36,5 +42,7 @@
 <div>
   
   ![Snake animation](https://github.com/simoneguimaraes/simoneguimaraes/blob/output/github-contribution-grid-snake.svg)
-    
+  
+
+ 
 </div>
