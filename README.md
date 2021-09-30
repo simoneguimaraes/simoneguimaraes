@@ -25,6 +25,7 @@
 
 ##
 
+<br>
 <div align='center'>
   
   
@@ -39,7 +40,7 @@
  
   ##
  
- <div align='left'>
+ <div align='center'>
   
   ![Snake animation](https://github.com/simoneguimaraes/simoneguimaraes/blob/output/github-contribution-grid-snake.svg)
    
@@ -49,6 +50,7 @@
 
    <div align='center'>
    <img alt="gif-cat" src="https://media2.giphy.com/media/11JTxkrmq4bGE0/200.webp?cid=ecf05e47erpodjp6r2y7x1zar3noxfonwqkwkyzn379ty4pk&rid=200.webp&ct=g" class="centerImage" style="width:200px;">
+     <img src='https://media0.giphy.com/media/QAPhxHyGNA0vZ2qCt9/giphy-preview.webp?cid=95b27944lhznegoe5hil4jjp48s60r7wymue1rs9nal3asbx&rid=giphy-preview.webp&ct=s' style="width:200px;">
  </div>
 
 
