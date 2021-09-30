@@ -19,17 +19,13 @@
 
 ##
 
-<div>
-    
-  <img align="right" alt="gif-yoda" src="https://media4.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.gif?cid=790b76116a30bf5d65cdcf499f84645015d366a15eb2704b&rid=giphy.gif&ct=g" style="width: 17%;">
-  
-  
+<div align='center'>
   
   
   <a href="https://github.com/simoneguimaraes">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=simoneguimaraes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=simoneguimaraes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>     
     
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneguimaraes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneguimaraes&layout=compact&langs_count=7&theme=radical"/>
     
 </div>
  
