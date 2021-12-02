@@ -7,7 +7,7 @@
 
 
 <div align='center'>
-<a href="https://github.com/simoneguimaraes/"><img src='https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true' alt='welcome banner made by BrunnerLivio' style='width: 88%'></a> 
+<a href="https://github.com/simoneguimaraes/"><img src='https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true' alt='welcome banner made by BrunnerLivio' style='width: 40%'></a> 
 </div>
 
 <div>
