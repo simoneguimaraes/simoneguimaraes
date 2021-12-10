@@ -11,8 +11,12 @@
 </div>
 
 <div>
-<div align="center"><h3>Hi there, I'm Simone Guimarães! ☕</h3></div>
+<div align="center"><h3>Hi there, I'm Simone Guimarães!</h3></div>
 <div align="center">A software engineer focused on front-end development.</div>
+<br>
+<div align="center"><strong>Technologies</strong>: ReactJs, MongoDB, ExpressJs, NodeJs, JavaScript (ES6), HTML5 e CSS3</div>
+  <br>
+  <div align="center"><strong><em>I love learning new technologies, creating new projets and sharing knowledge. Feel free to send me a message.</em></strong></div>
 <br>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/simone-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
