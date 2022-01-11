@@ -15,8 +15,6 @@
 <div align="center"><strong>A software engineer that loves learning new technologies, creating new projets and sharing knowledge.</strong></div>
 <div align="center"><em>Feel free to send me a message.</em></div>
 <br>
-<div align="center"><strong>Technologies</strong>: ReactJs, MongoDB, ExpressJs, NodeJs, JavaScript (ES6), HTML5 e CSS3</div>
-<br>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/simone-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.youtube.com/channel/UCC3Nv7RVxqC7VF_dn7gAq-g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
