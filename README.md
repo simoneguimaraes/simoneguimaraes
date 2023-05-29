@@ -11,9 +11,7 @@
 </div>
 
 <div>
-<div align="center"><h3>Hi there, I'm Simone Guimarães!</h3></div>
-<div align="center"><strong>A software engineer that loves learning new technologies, creating new projets and sharing knowledge.</strong></div>
-<div align="center"><em>Feel free to send me a message.</em></div>
+
 <br>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/simone-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
