@@ -6,24 +6,7 @@
 </div>
 
 
-<div align='center'>
-<a href="https://github.com/simoneguimaraes/"><img src='https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true' alt='welcome banner made by BrunnerLivio' style='width: 48%'></a> 
-</div>
-
-<div>
-
-<br>
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/simone-guimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.youtube.com/channel/UCC3Nv7RVxqC7VF_dn7gAq-g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
-   
-</div>
-
  
- </div>
-
-##
 
 <br>
 <div align='center'>
